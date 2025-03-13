@@ -1,6 +1,6 @@
 # 🦆 DuckDB - The Fast & Lightweight Analytical Database
 
-![DuckDB Logo]([./images/duckdb_logo.png](https://miro.medium.com/v2/resize:fit:1112/0*m9FEabk7UPOOtfr1.png))  
+![DuckDB Logo](https://miro.medium.com/v2/resize:fit:1112/0*m9FEabk7UPOOtfr1.png)
 *A lightweight, high-performance database for analytics and data science.*
 
 ## 📌 What is DuckDB?
